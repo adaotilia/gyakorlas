@@ -1,0 +1,81 @@
+/*
+.img{
+    width: 150px;
+    height: 300px;
+}
+*/
+
+body{
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+
+}
+
+header{
+    background-color: rgba(29, 10, 236, 0.615);
+    background-color: rgba(rgba(255, 0, 0, 0.542), rgba(0, 128, 0, 0.34), rgba(0, 0, 255, 0.575), alpha);
+    color: rgb(212, 200, 28);
+    padding: 20px;
+    text-align: center;
+
+}
+
+nav {
+    width: 100%;
+    background-color: rgb(26, 226, 244);
+    padding-top: 10px;
+    padding-bottom: 10px;
+    position: fixed;
+
+}
+
+nav ul{
+    list-style-type: none;
+    padding: 0;
+}
+
+nav ul li {
+
+    display: inline;
+    margin-right: 10px;
+}
+
+nav ul li a {
+    text-decoration: dashed;
+    color: rgb(46, 45, 45);
+}
+
+section{
+    height: 80vh;
+    padding: 20px;
+}
+
+.large-container {
+    display: flex;
+    justify-content: space-between;
+} 
+
+footer{
+    background-color: rgb(15, 211, 41);
+    color: rgb(235, 145, 28);
+    padding: 10px;
+    text-align: center;
+
+}
+
+#akarmi1{
+    background-color: blueviolet;
+}
+
+#akarmi2{
+    background-color: rgb(225, 17, 176);
+}
+
+#akarmi3{
+    background-color: rgb(219, 11, 234);
+}
+
+#akarmi4{
+    background-color: rgb(210, 19, 80);
+}
